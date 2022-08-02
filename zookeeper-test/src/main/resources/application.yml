@@ -1,0 +1,2 @@
+zookeeper.address=cailun.net:2181
+zookeeper.timeout=4000
